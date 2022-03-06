@@ -2,9 +2,10 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+nav {
+  background-color: rgb(25, 156, 231);
+  height: 40px; 
+  color: white
 }
 
 @media (prefers-reduced-motion: no-preference) {
